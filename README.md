@@ -1,9 +1,10 @@
-## Hi there 👋
+# Hi there 👋, I'm Bank
+
 <!-- <img src="https://profile-counter.glitch.me/thanajiraw/count.svg"> -->
 
+<!-- <h1 align="center">Hi 👋, I'm Bank</h1> -->
 
-<h1 align="center">Hi 👋, I'm Bank</h1>
-<h3 align="center">Looking for Job</h3>
+<!-- <h3 align="center">Looking for Job</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanajiraw&label=Profile%20views&color=0e75b6&style=flat" alt="thanajiraw" /> </p>
 
