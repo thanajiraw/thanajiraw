@@ -21,8 +21,8 @@
 
 ## Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanajiraw&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanajiraw&show_icons=true&locale=en" alt="thanajiraw" /></p>
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanajiraw&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanajiraw&show_icons=true&locale=en" alt="thanajiraw" /></p>
 
 
 
