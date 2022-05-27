@@ -1,12 +1,12 @@
-# Hi there 👋, I'm Bank
+## Hi there 👋, I'm Bank
 
-<!-- <img src="https://profile-counter.glitch.me/thanajiraw/count.svg"> -->
+<img src="https://profile-counter.glitch.me/thanajiraw/count.svg">
 
 <!-- <h1 align="center">Hi 👋, I'm Bank</h1> -->
 
 <!-- <h3 align="center">Looking for Job</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanajiraw&label=Profile%20views&color=0e75b6&style=flat" alt="thanajiraw" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanajiraw&label=Profile%20views&color=0e75b6&style=flat" alt="thanajiraw" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
