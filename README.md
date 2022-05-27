@@ -1,4 +1,4 @@
-<!-- ## Hi there 👋, I'm Bank -->
+<!-- ## Hi there 👋 I'm Bank -->
 
 <h1 align="center">Hi there 👋, I'm Bank</h1>
 
