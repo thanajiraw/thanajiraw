@@ -52,8 +52,8 @@
 
 <h2 align="center">STATUS</h2>
 <p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanajiraw&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="thanajiraw" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanajiraw&theme=tokyonight&show_icons=true&locale=en" alt="thanajiraw" width="410" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanajiraw&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="thanajiraw" />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=thanajiraw&theme=tokyonight&show_icons=true&locale=en" alt="thanajiraw" width="410" /></p>
 </p>
 
 
