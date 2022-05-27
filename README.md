@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 I'm Bank -->
 
-<h1 align="center">Hi there 👋, I'm Bank</h1>
+<h1 align="center">Hi there 👋 I'm Bank</h1>
 
 <p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p>
 
