@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://profile-counter.glitch.me/thanajiraw/count.svg">
+<!-- <img src="https://profile-counter.glitch.me/thanajiraw/count.svg"> -->
 
 
 <h1 align="center">Hi 👋, I'm Bank</h1>
