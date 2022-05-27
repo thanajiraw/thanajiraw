@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img src="https://profile-counter.glitch.me/thanajiraw/count.svg">
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=thanajiraw.repoName) [![GitHub followers](https://img.shields.io/github/followers/thanajiraw.svg?style=social&label=Follow)](https://github.com/thanajiraw?tab=followers)<br/>
 ## Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanajiraw&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
