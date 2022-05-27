@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋 I'm Bank</h1>
 
-
+<p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p>
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
@@ -43,7 +43,8 @@
  
 <h2 align="center">STATUS</h2>
 <p align= "center">
-  
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=thanajiraw&theme=tokyonight&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanajiraw&theme=tokyonight&layout=compact" />
 </p>
 
 
