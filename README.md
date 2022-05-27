@@ -44,7 +44,7 @@
  
 <h2 align="center">STATUS</h2>
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=thanajiraw&theme=tokyonight" />&nbsp;
+  <img height= "150" src="https://profile-counter.glitch.me/thanajiraw/count.svg" />&nbsp;
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanajiraw&layout=compact&theme=tokyonight" />
 </p>
 
