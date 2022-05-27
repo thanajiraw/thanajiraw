@@ -1,7 +1,8 @@
 <!-- ## Hi there 👋, I'm Bank -->
+
 <h1 align="center">Hi there 👋, I'm Bank</h1>
 
-<img src="https://profile-counter.glitch.me/thanajiraw/count.svg">
+<p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p>
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
