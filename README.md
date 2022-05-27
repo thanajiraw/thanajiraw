@@ -43,11 +43,11 @@
 
 
  
-<!-- <h2 align="center">STATUS</h2>
+<h2 align="center">STATUS</h2>
 <p align= "center">
  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=thanajiraw&theme=tokyonight" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanajiraw&layout=compact&theme=tokyonight" />
-</p> -->
+</p>
 
 
 
