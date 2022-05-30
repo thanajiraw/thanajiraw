@@ -3,8 +3,10 @@
 <img src="header.png" alt="Welcome">
 
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p> -->
+<p>
+ <h2 align="center">👽 About me 👽</h2>
+</p>
 
-<h2 align="center">👽 About me 👽</h2>
 <p><b>Hi!</b> My name is Thanawat Jirawatwanit. I am a Computer Engineer. You can call me 'Bank' . I am interested in working as a Web/App Developer. And what I'm interested in is UX/UI designer.</p>
 
 <ul>
@@ -22,8 +24,9 @@
  <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music, sing a song and 🎥 watching movies.</li>
  </ul>
 
-<br>
-<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
+<p>
+ <h2 align="center">🛠️ Languages and Tools 🛠️</h2>
+</p>
 
 <p align="center">
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -63,18 +66,23 @@
 
 </p>
 
+</p>
+ <h2 align="center">📚 GitHub Stats 📚</h2>
+<p>
 
-<h2 align="center">STATUS</h2>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanajiraw&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="thanajiraw" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanajiraw&show_icons=true&locale=en&layout=compact&bg_color=04f500,04fa00,000000&title_color=fff&text_color=fff" alt="thanajiraw" />
  &nbsp;
- <img src="https://github-readme-stats.vercel.app/api?username=thanajiraw&show_icons=true&locale=en&bg_color=04f500,34a832,000000&title_color=fff&text_color=fff&icon_color=000" alt="thanajiraw" width="410" />
+ <img src="https://github-readme-stats.vercel.app/api?username=thanajiraw&show_icons=true&locale=en&bg_color=04f500,04fa00,000000&title_color=fff&text_color=fff&icon_color=000" alt="thanajiraw" width="410" />
 </p>
 
-<h2 align="center">👁️ Connect with me 👁️</h2>
+<p>
+ <h2 align="center">👁️ Connect with me 👁️</h2>
+</p>
+
 <p align="center">
-<a href="https://fb.com/bbcups4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bank thanawat" height="30" width="40" /></a>
-<a href="https://instagram.com/bank.tnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bank.tnw" height="30" width="40" /></a>
+ <a href="https://fb.com/bbcups4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bank thanawat" height="30" width="40" /></a>
+ <a href="https://instagram.com/bank.tnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bank.tnw" height="30" width="40" /></a>
 </p>
 
 
