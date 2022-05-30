@@ -7,11 +7,12 @@
 <h2 align="center">👽 About me 👽</h2>
 Hi! My name is Thanawat Jirawatwanit. I am a Computer Engineer. You can call me 'Bank' . I am interested in working as a Web/App Developer. And what I'm interested in is UX/UI designer.
 
+<br>
 
 <!-- I don't have real work experience. But I am already to . And in the end
 I hope that we will have the opportunity to work together. -->
 
-<br>
+
 
 <ul>
  <li>🎓 <b>I'm a new graduate</b>: Computer Engineering at the University of Kasetsart University Sriracha Campus.</li>
@@ -24,11 +25,10 @@ I hope that we will have the opportunity to work together. -->
    <li> Adobe XD </li>
   </ul>
  </li>
- <li>📫 <b>How to reach me</b>: thanawat.jira@gmail.com</li>
+ <li>📫 <b>How to reach me</b>: You can shoot me an email at thanawat.jira@gmail.com, Catch and follow me from the below links 👇</li>
  <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music and 📷 Photography.</li>
  </ul>
 
-<br>
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
