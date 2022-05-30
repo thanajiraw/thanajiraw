@@ -6,7 +6,6 @@
 
 <h2 align="center">👽 About me 👽</h2>
 <p><b>Hi!</b> My name is Thanawat Jirawatwanit. I am a Computer Engineer. You can call me 'Bank' . I am interested in working as a Web/App Developer. And what I'm interested in is UX/UI designer.</p>
-<br>
 
 <!-- I don't have real work experience. But I am already to . And in the end
 I hope that we will have the opportunity to work together. -->
@@ -23,7 +22,7 @@ I hope that we will have the opportunity to work together. -->
    <li> Adobe XD </li>
   </ul>
  </li>
- <li>📫 <b>How to reach me</b>: You can shoot me an email at <a href ="thanawat.jira@gmail.com"</a> or catch and follow me from the below links 👇</li>
+ <li>📫 <b>How to reach me</b>: You can shoot me an email at <a href ="thanawat.jira@gmail.com">thanawat.jira@gmail.com</a> or catch and follow me from the below links 👇</li>
  <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music and 📷 Photography.</li>
  </ul>
 
