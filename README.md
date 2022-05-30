@@ -22,7 +22,7 @@ I hope that we will have the opportunity to work together. -->
    <li> Adobe XD </li>
   </ul>
  </li>
- <li>📫 <b>How to reach me</b>: You can shoot me an email at <a href ="mailto: thanawat.jiran@gmail.com">✉️</a> or catch and follow me from the below links 👇</li>
+ <li>📫 <b>How to reach me</b>: You can shoot me an email at <a href ="mailto: thanawat.jiran@gmail.com"><h3>✉️</d3></a> or catch and follow me from the below links 👇</li>
  <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music and 📷 Photography.</li>
  </ul>
 
