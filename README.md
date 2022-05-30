@@ -7,10 +7,10 @@
  <h2 align="center">👽 About me 👽</h2>
 </p>
 
-<p><b>Hi!</b> My name is Thanawat Jirawatwanit. I am a Computer Engineer. You can call me 'Bank' . I am interested in working as a Web/App Developer. And what I'm interested in is UX/UI designer.</p>
+<p><b>    &nbsp;Hi!</b> My name is Thanawat Jirawatwanit. I am a Computer Engineer. You can call me 'Bank' . I am interested in working as a Web/App Developer. And what I'm interested in is UX/UI designer.</p>
 
 <ul>
- <li>🎓 <b>I'm a new graduate</b>: Computer Engineering at the University of Kasetsart University Sriracha Campus.</li>
+ <li>🎓 <b>I'm a new graduate</b>: Computer Engineering at the University of Kasetsart Sriracha Campus.</li>
  <li>🔭 <b>I'm looking for a job</b>: Frontend or Fullstack Developer. 
 <!--   Please have a look at my [RESUME]() for more details about me. -->
  </li>
