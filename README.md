@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 I'm Bank -->
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Bank</h1>
+<img src="header.png" alt="Welcome">
 
 <p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p>
 
