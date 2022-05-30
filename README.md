@@ -11,7 +11,7 @@ Hi! My name is Thanawat Jirawatwanit. I am a Computer Engineer. You can call me 
 <!-- I don't have real work experience. But I am already to . And in the end
 I hope that we will have the opportunity to work together. -->
 
-<hr>
+<br>
 
 <ul>
  <li>🎓 <b>I'm a new graduate</b>: Computer Engineering at the University of Kasetsart University Sriracha Campus.</li>
@@ -28,6 +28,7 @@ I hope that we will have the opportunity to work together. -->
  <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music and 📷 Photography.</li>
  </ul>
 
+<br>
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
