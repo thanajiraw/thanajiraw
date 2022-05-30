@@ -2,7 +2,28 @@
 
 <img src="header.png" alt="Welcome">
 
-<p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p> -->
+
+<h2 align="center">👽 About me 👽</h2>
+Hi! My name is Thanawat Jirawatwanit. I am a Computer Engineer. You can call me 'Bank' . I am interested in working as a Web/App Developer. And what I'm interested in is UX/UI designer.
+
+I don't have real work experience. But I am already to . And in the end
+
+I hope that we will have the opportunity to work together.
+
+<ul>
+ <li>🎓 <b>I'm a new graduate</b>: Computer Engineering at the University of Kasetsart University Sriracha Campus.</li>
+ <li>🔭 <b>I'm looking for a job</b>: Frontend or Fullstack Developer.</li>
+ <li>🌱 <b>I’m currently learning ...</b> 
+  <ul>
+   <li> React.js </li>
+  </ul>
+ </li>
+<!--  <li><b></b>:</li>
+ <li><b></b>:</li> -->
+ </ul>
+
+
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
