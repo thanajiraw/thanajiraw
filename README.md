@@ -2,7 +2,7 @@
 
 <img src="header.png" alt="Welcome">
 
-<!-- <p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p> -->
+<p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p>
 <p>
  <h2 align="center">👽 About me 👽</h2>
 </p>
@@ -23,6 +23,19 @@
  <li>📫 <b>How to reach me</b>: You can shoot me an email at <a href ="mailto: thanawat.jiran@gmail.com">thanawat.jiran@gmail.com</a> or catch and follow me from the below links 👇</li>
  <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music, 🎤 sing a song and 🎥 watching movies.</li>
  </ul>
+
+
+<p align="center">
+ <h2 align="center">🎮 My game made by Unity 🎮</h2>
+</p>
+
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+ 
+ <p align="center">
+  <a href ="https://play.unity.com/mg/2d/yeah-mowp">🏃‍♂️ 2D Yeah</a>&nbsp;
+  <a href ="https://play.unity.com/mg/karting/heaven-kart">🏎️ Heaven kart</a>&nbsp;
+  <a href ="https://play.unity.com/mg/fps/gbfpseekk">🔫 FPS The Gate</a>
+ </p>
 
 <p>
  <h2 align="center">🛠️ Languages and Tools 🛠️</h2>
@@ -64,19 +77,6 @@
  
 </p>
 
-<p align="center">
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-</p>
-
-<div>
- <h3 align="center">My game made by Unity</h3>
- <br>
- <p align="center">
-  <a href ="https://play.unity.com/mg/karting/heaven-kart">🏎️ Heaven kart</a>&nbsp;
-  <a href ="https://play.unity.com/mg/2d/yeah-mowp">🏃‍♂️ 2D Yeah</a>&nbsp;
-  <a href ="https://play.unity.com/mg/fps/gbfpseekk">🔫 FPS The Gate</a>
- </p>
-</div>
 
 <p>
  <h2 align="center">📚 GitHub Stats 📚</h2>
