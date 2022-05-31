@@ -26,7 +26,7 @@
 
 
 <p align="center">
- <h3 align="center">🕹️ My games made with Unity 🕹️</h3>
+ <h2 align="center">🕹️ My games made with Unity 🕹️</h2>
 </p>
  
  <p align="center">
