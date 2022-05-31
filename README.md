@@ -26,16 +26,15 @@
 
 
 <p align="center">
- <h2 align="center">🎮 My game made by Unity 🎮</h2>
+ <h3 align="center">🕹️ My games made with Unity 🕹️</h3>
 </p>
  
  <p align="center">
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <br>
-  <a href ="https://play.unity.com/mg/2d/yeah-mowp">🏃‍♂️ 2D Yeah</a>&nbsp;
-  <a href ="https://play.unity.com/mg/karting/heaven-kart">🏎️ Heaven kart</a>&nbsp;
+  <a href ="https://play.unity.com/mg/2d/yeah-mowp">🏃‍♂️ 2D Yeah</a><br>
+  <a href ="https://play.unity.com/mg/karting/heaven-kart">🏎️ Heaven kart</a><br>
   <a href ="https://play.unity.com/mg/fps/gbfpseekk">🔫 FPS The Gate</a>
  </p>
-<br>
+
 
 <p>
  <h2 align="center">🛠️ Languages and Tools 🛠️</h2>
@@ -74,8 +73,8 @@
  &nbsp;
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  &nbsp;
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
-<br>
 
 <p>
  <h2 align="center">📚 GitHub Stats 📚</h2>
@@ -86,7 +85,6 @@
  &nbsp;
  <img src="https://github-readme-stats.vercel.app/api?username=thanajiraw&show_icons=true&locale=en&bg_color=04f500,04fa00,000000&title_color=fff&text_color=fff&icon_color=000" alt="thanajiraw" width="410" />
 </p>
-<br>
 
 <p>
  <h2 align="center">👁️ Connect with me 👁️</h2>
