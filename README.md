@@ -2,7 +2,7 @@
 
 <img src="header.png" alt="Welcome">
 
-<!-- <p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p> -->
+<p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p>
 <p>
  <h2 align="center">👽 About me 👽</h2>
 </p>
@@ -32,7 +32,7 @@
  <p align="center">
   <a href ="https://play.unity.com/mg/2d/yeah-mowp">🏃‍♂️ 2D Yeah</a><br>
   <a href ="https://play.unity.com/mg/karting/heaven-kart">🏎️ Heaven kart</a><br>
-  <a href ="https://play.unity.com/mg/fps/gbfpseekk">🔫 FPS The Gate</a>
+  <a href ="https://play.unity.com/mg/fps/gbfpseekk">🔫 FPS The Gates</a>
  </p>
 
 
