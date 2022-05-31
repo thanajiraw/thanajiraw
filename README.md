@@ -2,7 +2,7 @@
 
 <img src="header.png" alt="Welcome">
 
-<p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/thanajiraw/count.svg"></p> -->
 <p>
  <h2 align="center">👽 About me 👽</h2>
 </p>
@@ -72,9 +72,9 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  &nbsp;
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <br>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
+<br>
 
 <p>
  <h2 align="center">📚 GitHub Stats 📚</h2>
@@ -85,6 +85,7 @@
  &nbsp;
  <img src="https://github-readme-stats.vercel.app/api?username=thanajiraw&show_icons=true&locale=en&bg_color=04f500,04fa00,000000&title_color=fff&text_color=fff&icon_color=000" alt="thanajiraw" width="410" />
 </p>
+<br>
 
 <p>
  <h2 align="center">👁️ Connect with me 👁️</h2>
