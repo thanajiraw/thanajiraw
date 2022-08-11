@@ -6,7 +6,7 @@
 
 <h2 align="center">👽 About me 👽</h2>
 
-&nbsp;&nbsp;&nbsp;**Hi!** My name is Thanawat Jirawatwanit. Now i'm a Frontend Developer. You can call me 'Bank' . I am interested in working as a Web/App Developer. And what I'm interested in is UX/UI designer.
+&nbsp;&nbsp;&nbsp;**Hi!** My name is Thanawat Jirawatwanit. I am a Frontend Developer. You can call me 'Bank' . I am interested in working as a Web/App Developer. And what I'm interested in is UX/UI designer.
 
 <ul>
  <li>🎓 <b>I'm a new graduate</b>: Computer Engineering at the University of Kasetsart Sriracha Campus.</li>
